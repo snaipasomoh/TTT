@@ -20,5 +20,7 @@ $(TMP)TTTBot.o: $(SRC)TTTBot.cpp
 $(TMP):
 	mkdir $(TMP)
 
+.PHONY: clear
+
 clear:
 	$(RM) -r $(TMP)*.o TTT
