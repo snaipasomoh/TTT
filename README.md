@@ -1,4 +1,4 @@
-# TTT
+# Tic-Tac-Toe
 Sem3 Tic-Tac-Toe game with C++ and SDL2
 
 Needs:
